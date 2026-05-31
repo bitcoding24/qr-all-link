@@ -146,6 +146,11 @@ st.markdown(
 # -----------------------------
 links = [
     {
+        "title": "(⭐최종 분석⭐)📊 2025-03-01 ~ 2026-02-28 전국 학교 실제 학사일정 vs GA 최적 학사일정 차이 분석 결과 바로보기",
+        "description": "분량으로 인해 ppt에 담지 못한 마지막 분석입니다!! 꼭 봐주세요!! 실제와 최적화 알고리즘이 짠 학사일정을 비교하면서 학사일정이 학교의 업무효율성을 고려하는지? 학새의 학업능력을 고려하는지? 결론을 냅니다!!",
+        "url": "https://ga-vs-real-differnce-analysis-result.streamlit.app/"
+    },
+    {
         "title": "+더 많은 학사일정 다운받기+",
         "description": "위 사이트에서 다운받은 학사일정만 사용 가능합니다.",
         "url": "https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=OPEN17220190722175038389180&infSeq=3&cateId=A0005"
@@ -170,12 +175,8 @@ links = [
         "title": "(streamlit 데이터 용량 제한으로 아마 안될듯, 로컬이용강추👍) 🧬 전국 학교 실제 학사일정 vs GA 최적 학사일정 차이 분석",
         "description": "위 데이터를 다운받으시고, 업로드하면 결과를 보실 수 있습니다. 또한 다른기간의 학사일정을 다운로드 받아도 분석 가능합니다.",
         "url": "https://ga-vs-real-difference-analysis.streamlit.app/"
-    },
-    {
-        "title": "📊 2025-03-01 ~ 2026-02-28 전국 학교 실제 학사일정 vs GA 최적 학사일정 차이 분석 결과 바로보기",
-        "description": "위 데이터의 다운로드 없이 주제로 정한 기간의 결과를 바로 보실 수 있습니다.",
-        "url": "https://ga-vs-real-differnce-analysis-result.streamlit.app/"
     }
+    
     
     
     
